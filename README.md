@@ -30,3 +30,7 @@ Matplotlib
 Seaborn
 Scikit-learn
 Scipy
+
+Danila Ladygin
+budlighterluk@gmail.com
+@SkyWalker_OG
